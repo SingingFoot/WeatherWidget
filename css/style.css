@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-image: url(../img/tree.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, .527), rgba(0, 0, 0, .5)), url(../img/tree.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
